@@ -10,8 +10,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@react-three/drei": "^9.88.0",
-    "@react-three/fiber": "^8.15.0",
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.5.0",
+    "@tailwindcss/postcss": "^4.1.18",
     "clsx": "^2.1.0",
     "framer-motion": "^10.16.0",
     "lucide-react": "^0.294.0",
@@ -19,14 +20,14 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^2.2.0",
-    "three": "^0.159.0"
+    "three": "^0.182.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
     "@types/node": "^20.10.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
-    "@types/three": "^0.159.0",
+    "@types/three": "^0.182.0",
     "eslint": "^9.0.0",
     "eslint-config-next": "^15.0.0",
     "postcss": "^8.4.31",
