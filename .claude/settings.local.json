@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(*setup-ralph-loop.sh*)",
+      "Bash(sh *)",
+      "Bash(bash *)",
+      "Bash(npx eslint:*)",
+      "Bash(npx tsc:*)"
+    ]
+  }
+}
