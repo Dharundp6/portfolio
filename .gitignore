@@ -41,3 +41,6 @@ tmpclaude-*
 # Misc
 lint.txt
 nul
+
+# Claude Code local files
+.claude/*.local.*
